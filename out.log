@@ -1,0 +1,2 @@
+
+./debug.sh: line 7: ./buggy.sh: No such file or directory
